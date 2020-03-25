@@ -1,0 +1,12 @@
+footer img{
+    height: 40px;
+    
+}
+footer  a{
+    color: white;
+    display: block;
+    line-height: 2;
+}
+.bg-black{
+    background-color: black;
+}
